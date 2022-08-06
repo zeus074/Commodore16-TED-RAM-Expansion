@@ -1,4 +1,4 @@
-# Commodore16-TED-RAM-Expansion
+# Commodore16-TED-RAM-Expansion UNDER REVISION!
 64Kb RAM solderless expansion for Commodore 16/116
 
 Adapter to put under the TED to be able to expand the computer memory.
@@ -23,7 +23,7 @@ C1,C2,C3: 100nF 10v 0805
 
 U2: 48pin socket for TED (or 2 female 24pin strips 2.54)
 
-U3: SRAM CY62128EV30LL-45ZAXIT (STSOP-32)
+U3: SRAM CY62128EV30LL-45ZAXIT (STSOP-32) ATTENTION! is 3.3V 
 
 U4: SN74HCT00PWR (TSSOP-14)
 
